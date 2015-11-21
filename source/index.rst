@@ -9,9 +9,10 @@ Welcome to Lua5.1ReferenceManual's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
 
-
+    abc
+    sa
 
 Indices and tables
 ==================
