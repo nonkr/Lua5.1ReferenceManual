@@ -11,8 +11,7 @@ Contents:
 .. toctree::
     :maxdepth: 2
 
-    abc
-    sa
+    helloworld
 
 Indices and tables
 ==================
